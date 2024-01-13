@@ -11,3 +11,6 @@ Completed this project as part of my Data Science ND Machine Learning Internship
 
   PRESENTATION SLIDES:-
   https://docs.google.com/presentation/d/1zc_xvIp62J2ZbE2-IIUpS7iOkgHLeigVVow6-6-UIaY/edit?usp=drive_link
+
+  DATASOURCE LINK:-
+  https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees
